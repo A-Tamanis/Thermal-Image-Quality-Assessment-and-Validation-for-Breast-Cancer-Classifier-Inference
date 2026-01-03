@@ -1,0 +1,3 @@
+Binary Pose Classification Training - Contains the datasets and models for the Binary Pose Check. It also contains scripts used to set up the datasets.
+Landmark Detection Training - Contains the datasets and models used for the Anatomical Landmark Geometry Check. Also contains scripts used to setup the datasets.
+Pipelines - Contains the algorithms for each check and a main pipeline script that runs them sequentialy for each angle.

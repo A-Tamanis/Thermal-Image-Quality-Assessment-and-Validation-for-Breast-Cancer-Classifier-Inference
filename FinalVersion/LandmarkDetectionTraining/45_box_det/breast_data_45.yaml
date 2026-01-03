@@ -1,0 +1,12 @@
+# breast_data.yaml
+path: 45_dataset/45metrics_dataset          # or absolute path if you prefer
+train: images/train
+val: images/val
+test: images/test             # optional but nice to have
+
+names:
+  0: right_breast
+  1: left_breast
+  2: armpit
+  3: right_nip
+  4: left_nip
