@@ -1,0 +1,1 @@
+Each folder contains the dataset, models and results of each training attempt, for each angle of the Binary pose validation. They also contain different scripts used for dataset and model handling.
